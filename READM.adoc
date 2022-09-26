@@ -1,0 +1,5 @@
+= MDNS Base Image
+
+Base image that includes avahi and nss-mdns.
+Based on fedora, uses systemd, and can be used to create images running applications that need mdns.
+
